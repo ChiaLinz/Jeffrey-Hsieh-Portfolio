@@ -43,7 +43,7 @@ const Experience = () => {
             <h4>Scikit-learn ( 4+ years)</h4>
           </article>
           <article className="experience__details">
-            <h4>Git ( 4+ years)</h4>
+            <h4>Git ( 3+ years)</h4>
           </article>
           <article className="experience__details">
             <h4>TensorFlow ( 2+ years)</h4>
