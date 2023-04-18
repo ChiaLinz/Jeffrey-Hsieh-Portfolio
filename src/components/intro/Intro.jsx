@@ -16,7 +16,7 @@ const Intro = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={photo} alt="Jeffrey" style={{ width: '100%', max-width: '700px' }}/>
+            <img src={photo} alt="Jeffrey" style={{ width: '100%'}}/>
           </div>
         </div>
         <div className="about__content">
