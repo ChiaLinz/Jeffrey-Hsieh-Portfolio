@@ -86,8 +86,6 @@
     .about__me-image {
       object-fit: cover;
       height: auto;
-      width: auto;
-      object-position: center;
     }
   
     .about__content p {
@@ -108,8 +106,6 @@
   
     .about__me-image {
       object-fit: cover;
-      height: auto;
-      width: auto;
       object-position: center;
     }
   
