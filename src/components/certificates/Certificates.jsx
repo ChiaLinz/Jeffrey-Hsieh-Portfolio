@@ -98,7 +98,7 @@ const Certificates = () => {
 
   return (
     <section id="certificates">
-      <h5>My Gallery</h5>
+      <h3>My Gallery</h3>
       <h2>Certificates</h2>
       <Swiper
         className="container certificates__container"
