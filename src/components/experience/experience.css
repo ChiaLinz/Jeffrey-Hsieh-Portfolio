@@ -5,6 +5,7 @@
   }
   
   .experience__container {
+    width: 80%;
     display: grid;
     grid-template-columns: 1fr;
     gap: 2rem;
@@ -16,7 +17,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
   }
   

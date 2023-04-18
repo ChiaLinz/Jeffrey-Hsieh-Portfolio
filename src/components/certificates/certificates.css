@@ -4,7 +4,7 @@
 }
 
 .certificate__image {
-    max-width: 800px;
+    max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;

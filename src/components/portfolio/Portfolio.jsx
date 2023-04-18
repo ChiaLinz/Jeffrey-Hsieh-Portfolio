@@ -81,8 +81,13 @@ const Portfolio = () => {
         {soloProjects.map((pro) => (
           <article className="portfolio__item" key={pro.id}>
             <div className="portfolio__item-image">
-              <img src={pro.img} alt={pro.title} />
-            </div>
+            <img
+              srcSet={`${pro.img} 800w, ${pro.img.replace(".jpg", "_small.jpg")} 400w`}
+              sizes="(min-width: 800px) 800px, 100vw"
+              src={pro.img}
+              alt={pro.title}
+            />
+          </div>
             <div className="portfolio__item-content">
               <h3>{pro.title}</h3>
               <p>{pro.description}</p>              
