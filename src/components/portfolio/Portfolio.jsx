@@ -74,7 +74,7 @@ const Portfolio = () => {
 
   return (
     <section id="portfolio">
-      <h3>My Recent Work</h3>
+      <h4 style={{ textAlign: 'center' }}>My Recent Work</h4>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

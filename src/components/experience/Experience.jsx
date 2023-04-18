@@ -4,7 +4,7 @@ import './experience.css';
 const Experience = () => {
   return (
     <section id="experience">
-      <h3>The Skills I Have</h3>
+      <h4 style={{ textAlign: 'center' }}>The Skills I Have</h4>
       <h2>Skills</h2>
       <div className="container experience__container">
         <h3 style={{ textAlign: 'center' }}>Programming Languages</h3>

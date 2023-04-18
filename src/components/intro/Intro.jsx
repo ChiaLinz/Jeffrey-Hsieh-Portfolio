@@ -11,7 +11,7 @@ import photo from '../../assets/Jeffrey.jpg';
 const Intro = () => {
   return (
     <section id="about">
-      <h3>Get to know</h3>
+      <h4 style={{ textAlign: 'center' }}>Get to know</h4>
       <h2>About Me</h2>
       <div className="container about__container">
         <div className="about__me">
@@ -61,7 +61,7 @@ const Intro = () => {
             
           </div>
           <p>
-          I am proficient in developing machine learning models to analyze complex business problems, manipulating databases to create efficient relational schemas, applying statistical algorithms to enhance deep learning, and creating informative dashboards for data visualization
+          I am proficient in developing machine learning models to analyze complex business problems, manipulating databases to create efficient relational schemas, applying statistical algorithms to enhance deep learning, and creating informative dashboards for data visualization.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
