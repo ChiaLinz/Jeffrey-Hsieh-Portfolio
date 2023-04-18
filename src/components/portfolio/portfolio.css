@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
+    height: auto; /* add this */
   }
   
   .portfolio__item {
@@ -41,7 +42,7 @@
   }
   
   .portfolio__item-content {
-    height: 200px;
+    height: auto; /* change to auto */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -51,10 +52,10 @@
     .portfolio__container {
       grid-template-columns: 1fr 1fr;
       gap: 1.2rem;
-      height: 500px;
+      height: auto; /* change to auto */
     }
     .portfolio__item-content {
-      height: 200px;
+      height: auto; /* change to auto */
       flex-direction: column;
       justify-content: space-between;
     }
@@ -64,10 +65,10 @@
     .portfolio__container {
       grid-template-columns: 1fr;
       gap: 1rem;
-      height: 500px;
+      height: auto; /* change to auto */
     }
     .portfolio__item-content {
-      height: 200px;
+      height: auto; /* change to auto */
       flex-direction: column;
       justify-content: space-between;
     }

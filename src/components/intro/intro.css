@@ -85,8 +85,7 @@
   
     .about__me-image {
       object-fit: cover;
-      object-position: 80% 80%;
-      height: 200%;
+      height: auto;
       width: auto;
     }
   
@@ -108,8 +107,7 @@
   
     .about__me-image {
       object-fit: cover;
-      object-position: 90% 40%;
-      height: 200%;
+      height: auto;
       width: auto;
     }
   
