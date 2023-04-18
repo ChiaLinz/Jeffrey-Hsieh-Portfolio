@@ -1,29 +1,29 @@
 {
-  "files": {
-      "main.css": "docs/static/css/main.70529578.css",
-      "main.js": "docs/static/js/main.a80da484.js",
-      "static/media/Amazon Food Reviews Sentiment Analysis Project.jpg": "docs/static/media/Amazon Food Reviews Sentiment Analysis Project.cd0e9803dacdb40c40f5.jpg",
-      "static/media/Jeffrey Hsieh Resume.pdf": "docs/static/media/Jeffrey Hsieh Resume.90942753abec0ecce70b.pdf",
-      "static/media/Jeffrey.jpg": "docs/static/media/Jeffrey.5f9bff345d0a50cb5570.jpg",
-      "static/media/Digital Recognizer Project.jpg": "docs/static/media/Digital Recognizer Project.23372eb369194781085e.jpg",
-      "static/media/Google Data Analytics.JPG": "docs/static/media/Google Data Analytics.7794c579fb239b130bec.JPG",
-      "static/media/IBM Data Science Certificate.JPG": "docs/static/media/IBM Data Science Certificate.a74a6093a3318071a4b3.JPG",
-      "static/media/Bussiness Intelligence Foundation BIFPC.JPG": "docs/static/media/Bussiness Intelligence Foundation BIFPC.83f79c9617dd13917d0a.JPG",
-      "static/media/Transfer Learning for NLP with TensorFlow Hub.JPG": "docs/static/media/Transfer Learning for NLP with TensorFlow Hub.b8c99047c8264fdbf86b.JPG",
-      "static/media/Weather & Power Outage Project.jpg": "docs/static/media/Weather & Power Outage Project.a167ade258745218d83c.jpg",
-      "static/media/Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio.JPG": "docs/static/media/Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio.3c3cc7e427aa430fdb88.JPG",
-      "static/media/Google BigQuery PostgreSQL.JPG": "docs/static/media/Google BigQuery PostgreSQL.f01a558a77c9da4fba14.JPG",
-      "static/media/Atari Transfer Learning Project.jpg": "docs/static/media/Atari Transfer Learning Project.e1731578fbcfa91d0e38.jpg",
-      "static/media/The Complete Introduction to SQL programming.JPG": "docs/static/media/The Complete Introduction to SQL programming.3801f75e41345e17355a.JPG",
-      "static/media/Transaction Website.jpg": "docs/static/media/Transaction Website.313ad3a23f3a651fddaf.jpg",
-      "static/media/Space X Falcon 9 Landing Prediction.jpg": "docs/static/media/Space X Falcon 9 Landing Prediction.efdf3038f6b84e4d173d.jpg",
-      "static/media/Google Analytics.JPG": "docs/static/media/Google Analytics.a880368c54de7f508164.JPG",
-      "index.html": "docs/index.html",
-      "main.70529578.css.map": "docs/static/css/main.70529578.css.map",
-      "main.a80da484.js.map": "docs/static/js/main.a80da484.js.map"
-  },
-  "entrypoints": [
-      "docs/static/css/main.70529578.css",
-      "docs/static/js/main.a80da484.js"
-  ]
+    "files": {
+        "main.css": "./static/css/main.70529578.css",
+        "main.js": "./static/js/main.a80da484.js",
+        "static/media/Amazon Food Reviews Sentiment Analysis Project.jpg": "./static/media/Amazon Food Reviews Sentiment Analysis Project.cd0e9803dacdb40c40f5.jpg",
+        "static/media/Jeffrey Hsieh Resume.pdf": "./static/media/Jeffrey Hsieh Resume.90942753abec0ecce70b.pdf",
+        "static/media/Jeffrey.jpg": "./static/media/Jeffrey.5f9bff345d0a50cb5570.jpg",
+        "static/media/Digital Recognizer Project.jpg": "./static/media/Digital Recognizer Project.23372eb369194781085e.jpg",
+        "static/media/Google Data Analytics.JPG": "./static/media/Google Data Analytics.7794c579fb239b130bec.JPG",
+        "static/media/IBM Data Science Certificate.JPG": "./static/media/IBM Data Science Certificate.a74a6093a3318071a4b3.JPG",
+        "static/media/Bussiness Intelligence Foundation BIFPC.JPG": "./static/media/Bussiness Intelligence Foundation BIFPC.83f79c9617dd13917d0a.JPG",
+        "static/media/Transfer Learning for NLP with TensorFlow Hub.JPG": "./static/media/Transfer Learning for NLP with TensorFlow Hub.b8c99047c8264fdbf86b.JPG",
+        "static/media/Weather & Power Outage Project.jpg": "./static/media/Weather & Power Outage Project.a167ade258745218d83c.jpg",
+        "static/media/Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio.JPG": "./static/media/Hands-On SQL Server,ManagementStudio,SQL Queries,AzureStudio.3c3cc7e427aa430fdb88.JPG",
+        "static/media/Google BigQuery PostgreSQL.JPG": "./static/media/Google BigQuery PostgreSQL.f01a558a77c9da4fba14.JPG",
+        "static/media/Atari Transfer Learning Project.jpg": "./static/media/Atari Transfer Learning Project.e1731578fbcfa91d0e38.jpg",
+        "static/media/The Complete Introduction to SQL programming.JPG": "./static/media/The Complete Introduction to SQL programming.3801f75e41345e17355a.JPG",
+        "static/media/Transaction Website.jpg": "./static/media/Transaction Website.313ad3a23f3a651fddaf.jpg",
+        "static/media/Space X Falcon 9 Landing Prediction.jpg": "./static/media/Space X Falcon 9 Landing Prediction.efdf3038f6b84e4d173d.jpg",
+        "static/media/Google Analytics.JPG": "./static/media/Google Analytics.a880368c54de7f508164.JPG",
+        "index.html": "./index.html",
+        "main.70529578.css.map": "./static/css/main.70529578.css.map",
+        "main.a80da484.js.map": "./static/js/main.a80da484.js.map"
+    },
+    "entrypoints": [
+        "./static/css/main.70529578.css",
+        "./static/js/main.a80da484.js"
+    ]
 }
