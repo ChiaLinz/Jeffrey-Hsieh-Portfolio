@@ -30,7 +30,7 @@ const Intro = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <h4> Bank of America</h4>
-              <small> Lead Developer </small>
+              <small> Data Analyst </small>
               <h4>   </h4>  
               <h4> New Jersey Institute of Technology</h4>
               <small> Teaching Assistant </small>         
