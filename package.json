@@ -2,6 +2,9 @@
   "name": "portfolio---react",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "24.x"
+  },
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@hotjar/browser": "^1.0.9",
