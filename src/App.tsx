@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback, type ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { SITE } from "./config";
 import NeuralNet3D from "./NeuralNet3D";
 
@@ -450,6 +451,7 @@ export default function App() {
       <footer className="footer">
         <p className="footer-text">© {new Date().getFullYear()} Jeffrey Hsieh </p>
       </footer>
+      <Analytics />
     </>
   );
 }
